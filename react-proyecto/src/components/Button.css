@@ -1,0 +1,29 @@
+.button-section{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+   justify-content: center;
+    gap: 35px;
+    margin-top: 20px;
+
+}
+.button-section > button{
+    width: 200px;
+    padding:10px 15px 10px 15px;
+    font-size: 1.5em;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 6px;
+    gap: 5px;
+}
+.email{
+    background-color: #fff;
+}
+.linkedIn{
+    background-color: #5093E2;
+    color: white;
+}

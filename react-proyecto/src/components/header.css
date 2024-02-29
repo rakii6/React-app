@@ -1,0 +1,26 @@
+.head{
+    text-align: center;
+     font-family: "Inter", sans-serif;
+     font-size: 50px;
+}
+
+.head > h1{
+    font-size: .9em;
+    margin-bottom: 0px;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.head > h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 0.4em;
+    color: #F3BF99;
+    font-weight: 400;
+}
+.head > h4{
+
+    font-size: 0.25em;
+    color: #F5F5F5;
+    font-weight: 400;
+}
